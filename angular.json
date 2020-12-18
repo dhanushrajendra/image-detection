@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "image-conversion"
+  "defaultProject": "image-conversion",
+  "cli": {
+    "analytics": "2a1390bd-bfdc-4807-bfc0-1780626a5d9b"
+  }
 }
